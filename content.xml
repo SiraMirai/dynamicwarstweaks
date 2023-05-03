@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="DeadAirDWSRev" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" version="139" date="2022-04-02" save="0" enabled="1">
+	<dependency id="ego_dlc_split" optional="true" name="Split Vendetta" />
+	<dependency id="ego_dlc_terran" optional="true" name="Cradle of Humanity" />
+	<dependency id="ego_dlc_pirate" optional="true" name="Tides of Avarice"/>
+	<dependency id="ego_dlc_boron" optional="true" name="Kingdom End"/>
+	<dependency id="ws_2042901274" optional="false" name="SirNukes Mod Support APIs" />
+	<text language="7" 	name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="33" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="34" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="39" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="44" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="45" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="49" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="81" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="82" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="86" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+	<text language="88" name="Dynamic Wars - Tweaks" description="Dynamic Faction Relations" author="DeadAir, modified by Sira" />
+</content>
